@@ -10,7 +10,7 @@ export default function App() {
       <SearchEngine />
       <br />
       <ChangeCity />
-    <p>Coded by Hayleigh <br /><a href="https://github.com/hgielyah94/WeatherAppREACT-basic-">View on GitHub</a></p>
+    <p>Coded by Hayleigh <br /><a href="https://github.com/hgielyah94/WeatherAppREACT-basic">View on GitHub</a></p>
     </div>
   );
 }
